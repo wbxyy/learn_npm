@@ -1,1 +1,0 @@
-console.log('通过 package.json 加载 a.js');
